@@ -1,3 +1,4 @@
+# React Firestore Workshop
 In this workshop, we are going to practice using Firestore.
 
 1. Clone the repo, install the dependencies and run the app.
